@@ -1,0 +1,101 @@
+[
+  {
+    "link": "https://tdwi.org/events/conferences/chicago.aspx",
+    "date": "May 7-12, 2017",
+    "image": "https://tdwi.org/events/conferences/~/media/TDWI/TDWI%20Events/2017/chicago_city.jpg",
+    "isOnline": false,
+    "location": "Chicago",
+    "title": "TDWI Chicago Conference",
+    "description": "TDWI Chicago addresses our greatest data challenges head-on: Data streaming, enriching your data lake with new information sources, and connecting to spectrum of IoT. You will leave TDWI Chicago’s 6-day in-depth conference with the skills and insights to design, build and analyze your organization’s data."
+  },
+  {
+    "link": "https://tdwi.org/events/conferences/anaheim.aspx",
+    "date": "August 6-11, 2017",
+    "image": "https://tdwi.org/events/conferences/~/media/TDWI/TDWI%20Events/2017/anaheim_ferris.jpg",
+    "isOnline": false,
+    "location": "Anaheim",
+    "title": "TDWI Anaheim Conference",
+    "description": "All of the data in the world is useless unless you can effectively analyze and present the data to tell a story about what has happened, and what is likely to take place in the future. TDWI Anaheim brings together the experts in the big data and analysis space to share their insights about data analysis, visualization and storytelling in a proven learning environment."
+  },
+  {
+    "link": "https://tdwi.org/events/accelerate/seattle.aspx",
+    "date": "October 16-18, 2017",
+    "image": "https://tdwi.org/events/conferences/~/media/TDWI/TDWI%20Events/2017/seattle_accelerate_300_smlogo_left.jpg",
+    "isOnline": false,
+    "location": "Seattle",
+    "title": "TDWI Seattle Accelerate",
+    "description": "ACCELERATE brings together the brightest minds in data to share their expertise and insight on the future of data science and analytics. From sessions on core data science skills, to learning how to use new big data tools such as R, Python, and Spark, to talks on the latest trends in machine learning, predictive analytics and artificial intelligence, attendees will learn from industry experts, receive valuable training, and network and share ideas with their data peers in an exciting and collaborative environment."
+  },
+  {
+    "link": "https://tdwi.org/events/conferences/orlando.aspx",
+    "date": "December 3-8, 2017",
+    "image": "https://tdwi.org/events/conferences/~/media/TDWI/TDWI%20Events/2017/orlando_beach.jpg",
+    "isOnline": false,
+    "location": "Orlando",
+    "title": "TDWI Orlando Conference",
+    "description": "The future is now, and data science sits squarely at the crossroads of IoT, data lakes, analytics and cloud computing. Our team of experts has designed Data Futures 2018 as an interactive forum to learn, discover, and network with other data scientists and analytics professionals about the trends facing companies as they move into 2018."
+  },
+  {
+    "link": "https://tdwi.org/webcasts/2017/04/end-your-data-struggle-how-to-seamlessly-analyze-disparate-data.aspx?tc=page0",
+    "date": "April 25, 2017",
+    "image": null,
+    "isOnline": true,
+    "location": "Online",
+    "title": "End Your Data Struggle: How to Seamlessly Analyze Disparate DataRegister",
+    "description": "Many organizations today are struggling to get value from their data and advanced analytics initiatives. The struggle begins with data diversity, as organizations are trying to support new apps, customer channels, sensors, and social media outlets. Each source may have its own data structure, quality, and container (in the form of files, documents, messages). The struggle is exacerbated by the exploding volume of data that must be captured, processed, stored, and delivered to the right users in a state that is fit for their own individual needs."
+  },
+  {
+    "link": "https://tdwi.org/webcasts/2017/04/database-strategies-for-modern-bi-and-analytics.aspx?tc=page0",
+    "date": "April 26, 2017",
+    "image": null,
+    "isOnline": true,
+    "location": "Online",
+    "title": "Database Strategies for Modern BI and AnalyticsRegister",
+    "description": "The data universe has changed. Big data, cloud computing, and open source have dramatically expanded the number of data warehousing offerings available to today’s businesses. An increasing number of companies are implementing self-service business intelligence (BI) and visual analytics tools to access and make sense of all of the new and diverse sources of data their teams are consuming. Data literacy is changing equally fast as an increasing number of “data consumers” want to interact with data on their own rather than through IT."
+  },
+  {
+    "link": "https://tdwi.org/webcasts/2017/05/between-a-rock-and-a-hard-place-how-to-modernize-legacy-middleware-for-an-evolving-data-driven-world.aspx?tc=page0",
+    "date": "May 3, 2017",
+    "image": null,
+    "isOnline": true,
+    "location": "Online",
+    "title": "Between a Rock and a Hard Place: How to Modernize Legacy Middleware for an Evolving, Data-driven WorldRegister",
+    "description": "In support of daily operations, many organizations depend heavily on systems for enterprise application integration (EAI), enterprise service bus (ESB), and other approaches to middleware. Yet, these infrastructures are today legacy technologies that predate the rise of big data and unstructured data, as well as modern sources and targets for integration, such machines, devices, clouds, social media, and the Internet of Things (IoT). Furthermore, many middleware vendor tools are still optimized for the on-premises ERP-dominated applications world of twenty years ago; others are in legacy mode, with no future upgrades coming.                                            May 3, 2017"
+  },
+  {
+    "link": "https://tdwi.org/webcasts/2017/05/data-management-for-big-data-hadoop-and-data-lakes.aspx?tc=page0",
+    "date": "May 10, 2017",
+    "image": null,
+    "isOnline": true,
+    "location": "Online",
+    "title": "Data Management for Big Data, Hadoop, and Data LakesRegister",
+    "description": "A perfect storm of data management trends is converging. First, organizations across many industries are experiencing the big data phenomenon, which forces them to capture and leverage data from new sources, in structures and velocities that are new to them, in unprecedented volumes. Second, technical users are scrambling to learn new data platforms like Hadoop and their evolving best practices. Third, the data lake arose suddenly in 2016 as the preferred approach to managing very large repositories of raw source data. Fourth, business managers have attained a new level of sophistication in their use big data for business value and organizational advantage."
+  },
+  {
+    "link": "https://tdwi.org/webcasts/2017/05/new-data-practices-for-a-single-customer-view-and-omni-channel-marketing.aspx?tc=page0",
+    "date": "May 24, 2017",
+    "image": null,
+    "isOnline": true,
+    "location": "Online",
+    "title": "New Data Practices for a Single Customer View and Omnichannel MarketingRegister",
+    "description": "Marketing has been one of the top beneficiaries of significant advances in data management, software automation, and customer analytics that enable a single view of the customer and power omnichannel marketing. Customer views and channel marketing are now inherently scalable to vast amounts of data, which enables marketers to track customer behavior in unprecedented detail across multiple channel contexts."
+  },
+  {
+    "link": "https://tdwi.org/webcasts/2017/06/ask-the-expert-should-you-learn-mapreduce-or-spark.aspx",
+    "date": "June 19, 2017",
+    "image": null,
+    "isOnline": true,
+    "location": "Online",
+    "title": "Ask the Expert: Should You Learn MapReduce or Spark?TDWI Members OnlyRegister",
+    "description": "Want to become a data engineer but aren’t sure which technologies are the right fit for the job? People switching into big data are faced with a difficult decision—should you learn MapReduce or Spark? The answer seems simple, but requires more information and insight. Answering this and other questions correctly places you on the path to becoming a data engineer."
+  },
+  {
+    "link": "https://tdwi.org/webcasts/2017/06/architecting-a-hybrid-data-ecosystem-achieving-technical-cohesion-and-business-value.aspx?tc=page0",
+    "date": "June 28, 2017",
+    "image": null,
+    "isOnline": true,
+    "location": "Online",
+    "title": "Architecting a Hybrid Data Ecosystem: Achieving Technical Cohesion and Business Value in a Multi-platform EnvironmentRegister",
+    "description": "One of the strongest trends in data management today and into the future is the development of complex, multi-platform architectures that generate and integrate an eclectic mix of old and new data, in every structure imaginable, traveling in time frames from batch to real time. The data comes from legacy, mainstream enterprise, Web, and third-party systems, which may be home grown, vendor built, open source, or a mix of these. More sources are coming online from machines, social media, and the Internet of Things. These data environments are hybrid and diverse in the extreme, hence the name hybrid data ecosystems (HDEs)."
+  }
+]
